@@ -1,0 +1,13 @@
+body {
+    background-color: aquamarine    ;
+    font-family: 'Poppins', sans-serif;
+}
+.label{
+    display: flex;
+    justify-content: center;
+    padding-top: 230px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
